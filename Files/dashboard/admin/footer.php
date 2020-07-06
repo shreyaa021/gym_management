@@ -1,0 +1,1 @@
+<footer class="main"> <strong> Have a great day!!!</strong></footer>
